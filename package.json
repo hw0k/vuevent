@@ -1,0 +1,22 @@
+{
+  "name": "vuevent",
+  "version": "1.0.0",
+  "description": "A Vue.js 2.0+ Plugin which helps to use EventBus easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hw0k/vuevent.git"
+  },
+  "author": "hw0k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hw0k/vuevent/issues"
+  },
+  "homepage": "https://github.com/hw0k/vuevent",
+  "dependencies": {
+    "vue": "^2.2.6"
+  }
+}
