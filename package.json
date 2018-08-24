@@ -1,7 +1,7 @@
 {
   "name": "vuevent",
-  "version": "1.0.0",
-  "description": "A Vue.js 2.0+ Plugin which helps to use EventBus easily.",
+  "version": "1.0.1",
+  "description": "A Vue.js 2.0 Plugin which helps to use EventBus easily.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/hw0k/vuevent",
   "dependencies": {
     "vue": "^2.2.6"
-  }
+  },
+  "keywords": [
+    "vue", "vuejs"
+  ]
 }
